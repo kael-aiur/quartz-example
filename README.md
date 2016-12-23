@@ -1,2 +1,2 @@
 # quartz-example
-quartz example build by maven
+quartz example 2.2.3 build by maven
